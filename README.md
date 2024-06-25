@@ -8,7 +8,6 @@ TuDatos Scraper
 - [Descripción](#descripción)
 - [Características](#características)
 - [Estructura](#Estructura)
-- [Descripción de Carpetas y Archivos](#Descripción de Carpetas y Archivos)
 - [Organización](#Organizacion)
 - [Tecnologías](#Tecnologías)
 - [Instalación](#Instalacion)
