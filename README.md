@@ -99,10 +99,10 @@ Pruebas y Utilidades: Los archivos en las carpetas test/ y utils/ proporcionan s
 ## Tecnologías
 - Lenguaje: Python v3.10
 - Librerías: BeautifulSoup, lxml, Selenium, yaml, webdriver-manager
-  - estas librerias estan listas para ser intalas, y se encuentran en el archivo requeriments.txt
+  - estas librerias estan listas para ser instaladas, y se encuentran en el archivo requeriments.txt
   - Comando: pip install -r requeriments.txt
 - Sistema: Any
-- Env: opcional
+- venv: opcional
 
 ## Instalación y Uso
 1. Clona este repositorio:
