@@ -113,7 +113,7 @@ cd scripts
 3. Los datos extraidos se almacenaran en un data.json en el siguiente directorio data/stored_data/data.json
 
 ## NOTA
-NOTA: Se tomaron 10 registros (limite permitido) por cada paginacion, el scraper esta limitado a solo realizar 3 paginaciones, sin embargo esta restricion puede ser eliminada si al final del bucle while, dentro de la funcion fin_results(), se cambia este fragmento de codigo:
+NOTA: Se tomaron 10 registros (limite permitido) por cada paginacion, el scraper esta limitado a solo realizar 3 paginaciones, sin embargo esta restricion puede ser eliminada si al final del bucle while, dentro de la funcion find_results(), se cambia este fragmento de codigo:
   count+=1
         if count != 3: 
                 sleep(1.5)
