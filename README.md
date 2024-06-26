@@ -11,6 +11,7 @@ TuDatos Scraper
 - [Organización](#Organizacion)
 - [Tecnologías](#Tecnologías)
 - [Instalación](#Instalacion)
+- [chromedriver](#chromedriver)
 - [Contacto](#contacto)
 
 ## Descripción
@@ -125,7 +126,9 @@ Y se deja de la siguiente manera:
        sleep(1.5)
        af.do_clickByXpath(driver, '//button[@aria-label="Página siguiente"]')
     except: break
-    
+
+## chromedriver
+url para intalar Chromedriver x64-bits, para windows: https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.126/win64/chromedriver-win64.zip
 
 ## Contacto
 
