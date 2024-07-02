@@ -1,7 +1,7 @@
-# TusDatos---PruebaTecnica
+# Readme
 
 # Nombre del Proyecto
-TuDatos Scraper
+Scraper
 
 ## Tabla de Contenidos
 
