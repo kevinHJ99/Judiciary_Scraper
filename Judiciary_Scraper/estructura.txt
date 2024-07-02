@@ -1,0 +1,32 @@
+## Estructura
+TusDatos_PruebaTecnica/
+│
+├── config/
+│   └── config.yaml
+│
+├── data/
+│   ├── logs/
+│   │   ├── test/
+│   │   │   └── test_scraper.log
+│   │   └── production/
+│   │       └── scraper.log
+│   ├── test_data/
+│   │   └── data.json
+│   └── stored_data/
+│       └── data.json
+│
+├── test/
+│   ├── main.py
+│   ├── scraper.py
+│   └── server_response-test.py
+│
+├── utils/
+│   ├── config_variables.py
+│   ├── imports.py
+│   └── selenium_functions.py
+│
+├── scripts/
+│   ├── scraper.py
+│   └── main.py
+│
+└── requirements.txt
