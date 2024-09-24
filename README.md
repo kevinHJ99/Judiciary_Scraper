@@ -16,7 +16,7 @@ Scraper
 
 ## Descripción
 
-Este proyecto es un scraper desarrollado como parte de una prueba técnica. Su objetivo es extraer datos estructurados de el sitio web especificado y almacenarlos en un JSON para su posterior análisis. El scraper está diseñado para ser simple y eficiente, demostrando habilidades básicas de web scraping y manipulación de datos.
+Este proyecto es un scraper desarrollado como parte de un proyecto personal. Su objetivo es extraer datos estructurados de el sitio web especificado y almacenarlos en un JSON para su posterior análisis. El scraper está diseñado para ser simple y eficiente, demostrando habilidades básicas de web scraping y manipulación de datos.
 
 ## Características Clave
 
