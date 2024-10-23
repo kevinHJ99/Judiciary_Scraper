@@ -1,6 +1,6 @@
-from TusDatos_PruebaTecnica.utils.imports import *
-from TusDatos_PruebaTecnica.utils.config_variables import * 
-from TusDatos_PruebaTecnica.utils.selenium_functions import AutomationFunctions as af
+from Judiciary_Scraper.utils.imports import *
+from Judiciary_Scraper.utils.config_variables import * 
+from Judiciary_Scraper.utils.selenium_functions import AutomationFunctions as af
 
 # func: save_data
 # args: 
