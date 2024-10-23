@@ -1,4 +1,4 @@
-from TusDatos_PruebaTecnica.utils.imports import *
+from Judiciary_Scraper.utils.imports import *
 
 ## get the directory of the current script
 config_dir = os.getcwd()
