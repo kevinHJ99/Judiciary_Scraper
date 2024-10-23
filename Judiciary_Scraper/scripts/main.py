@@ -1,7 +1,7 @@
-from TusDatos_PruebaTecnica.utils.imports import *
-from TusDatos_PruebaTecnica.utils.config_variables import * 
-from TusDatos_PruebaTecnica.utils.selenium_functions import AutomationFunctions as af
-from TusDatos_PruebaTecnica.scripts.scraper import find_results
+from Judiciary_Scraper.utils.imports import *
+from Judiciary_Scraper.utils.config_variables import * 
+from Judiciary_Scraper.utils.selenium_functions import AutomationFunctions as af
+from Judiciary_Scraper.scripts.scraper import find_results
 
 ## find file directory S
 def find_file(filename, search_path):
