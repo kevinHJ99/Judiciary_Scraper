@@ -1,4 +1,4 @@
-from TusDatos_PruebaTecnica.utils.imports import *
+from Judiciary_Scraper.utils.imports import *
 
 class AutomationFunctions:
 
