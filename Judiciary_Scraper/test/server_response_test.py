@@ -1,7 +1,7 @@
 import requests as rq 
 import concurrent.futures as cf 
-from TusDatos_PruebaTecnica.utils.imports import * 
-from TusDatos_PruebaTecnica.utils.config_variables import *
+from Judiciary_Scraper.utils.imports import * 
+from Judiciary_Scraper.utils.config_variables import *
 
 ## find file directory S
 def find_file(filename, search_path):
